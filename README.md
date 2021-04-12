@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning PHP , Jquery , Ajax , Laravel , WordPress
 
-💞️ I’m looking to collaborate on ...
+💞️ I’m looking to collaborate on small developers teams
 
 📫 How to reach me : pintilied41@gmail.com
 
