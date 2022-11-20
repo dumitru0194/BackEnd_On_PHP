@@ -9,4 +9,4 @@
 
 📫 How to reach me : pintilied41@gmail.com
 
-Here I placed some projects that were done during the training or I can say the first mini projects 😄
+Here I placed some projects that were done during the training or I can say the first mini projects 
