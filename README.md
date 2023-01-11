@@ -1,4 +1,4 @@
-# Stages-of-progress-
+
 👋 Hi, I’m Dumitru
 
 👀 I’m interested in Back-End developing
